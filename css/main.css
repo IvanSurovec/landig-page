@@ -21,4 +21,20 @@ ul, li {
 body {
   font-family: 'Poppins', sans-serif; }
 
+.conteiner {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.nav {
+  padding-top: 35px;
+  padding-top: 33px; }
+
+.nav_row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+
 /*# sourceMappingURL=main.css.map */
